@@ -1,0 +1,5 @@
+#ifndef IBUS_KCM_SETTINGS_HPP
+#define IBUS_KCM_SETTINGS_HPP
+
+
+#endif
